@@ -1,0 +1,5 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cmake.configureOnOpen": true,
+  "cmake.sourceDirectory": "/home/poop/frinks/ocr/ocr_frontend/linux"
+}
